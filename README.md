@@ -1,4 +1,6 @@
-# Abstract
+# Simulating the famous *double-slit experiment* with three different slit configurations
+
+## Abstract
 
 The double-slit experiment is used to study the behavior of a single non-relativistic particle. To
 simulate this experiment, we start by removing all dimensions from the Schrödinger equation. We
