@@ -1,6 +1,14 @@
-# Project_5
+# Abstract
 
-- Repo URL : https://github.uio.no/jonathel/Project_5
+The double-slit experiment is used to study the behavior of a single non-relativistic particle. To
+simulate this experiment, we start by removing all dimensions from the Schrödinger equation. We
+then discretize the equation according to the Crank-Nicolson approach. We initialize the simulation
+with a Gaussian wave packet and a potential barrier given by the matrix $V$ . The potential barrier
+can represent three different slit configurations. We use the Born rule to transform the Scr ̈odinger
+equation to a probability function and visualize the change in the probability over time. Lastly, we
+measure the particle using a detector screen at $x = 0.8$ and make a plot of the detection probability.
+The single-slit configuration shows a Gaussian distribution, while both the double- and triple-slit
+configurations show an interference pattern.
 
 ## Authors
 - Sophus B Gullbekk (sophusbg@math.uio.no)
