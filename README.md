@@ -2,7 +2,6 @@
 
 <img src="figures/evolution.png" width="600">
 
-
 ## Abstract
 
 The double-slit experiment is used to study the behavior of a single non-relativistic particle. To
