@@ -3,11 +3,11 @@
 - Repo URL : https://github.uio.no/jonathel/Project_5
 
 ## Authors
-
-- Tov Uberg Tyvold (tovut@math.uio.no)
 - Sophus B Gullbekk (sophusbg@math.uio.no)
-- Jonathan Larsen (jonathel@math.uio.no) 
 - Erlend Kristensen (erlek@math.uio.no)
+- Tov Uberg Tyvold (tovut@math.uio.no)
+- Jonathan Larsen (jonathel@math.uio.no) 
+
 
 ## Compile and run
 
